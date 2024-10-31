@@ -1,0 +1,7 @@
+{
+  "name": "appVideoStorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
